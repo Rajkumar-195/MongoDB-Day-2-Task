@@ -22,7 +22,7 @@ Designing a MongoDB database for the Zen class programme, covering users, codeka
 ## Technologies Used
 
 - MongoDB
-- JavaScript
+
 
 ## Installation
 
